@@ -3,19 +3,19 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "workspaceRegionId": {
-      "value": "eastus"
+      "value": "westcentralus"
     },
     "pricingTier": {
       "value": "Free"
     },
     "solutionName": {
-      "value": "TestSolution"
+      "value": "CDN-Akamai"
     },
     "workspaceName": {
-      "value": "testomsomsoms"
+      "value": "cdn-br"
     },
 	"accountName": {
-	  "value": "testomsoms"
+	  "value": "cdn-br"
 	}
   }
 }
